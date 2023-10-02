@@ -2,4 +2,4 @@
 
 Dataset: winequality-red.csv
 
-This is a project that was implemented as a part of my Machine Learning and Patterns Recognition course in my university. Exploratory data analysis was performed on the Wine Quality dataset (winequality-red.csv). The two split ratios of training, validation and test: 80-10-10 and 60-20-20 were used for analyzing the dataset. Linear Regression, Support Vector Machine and Random Forest algorithms were used to implement GridSearchCV to find optimal hyperparameters.
+Predictive approach was used on the Red Wine Quality Dataset to determine which features are the best quality red wine indicators and generate insights into each of these factors to our model’s red wine quality. Neural Network using Tensorflow & Keras was implemented to classify wine quality. Evaluation metrics like R-squared, RSME, MAE were used to determine the performance of the regression models.  
